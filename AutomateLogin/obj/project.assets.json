@@ -4610,11 +4610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ognyp\\source\\repos\\AutomateLogin\\AutomateLogin\\AutomateLogin.csproj",
+      "projectUniqueName": "C:\\Users\\ognyp\\Desktop\\PC\\AutomateLogin\\AutomateLogin.csproj",
       "projectName": "AutomateLogin",
-      "projectPath": "C:\\Users\\ognyp\\source\\repos\\AutomateLogin\\AutomateLogin\\AutomateLogin.csproj",
+      "projectPath": "C:\\Users\\ognyp\\Desktop\\PC\\AutomateLogin\\AutomateLogin.csproj",
       "packagesPath": "C:\\Users\\ognyp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ognyp\\source\\repos\\AutomateLogin\\AutomateLogin\\obj\\",
+      "outputPath": "C:\\Users\\ognyp\\Desktop\\PC\\AutomateLogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

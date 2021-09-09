@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0eag6rPddKY4Uzl9Ybek2kZaPYN8DixUcAhFGOP609L+unqJ/XVjbXBQCRvSDysoLNKBNd/lMfUSqWfq8YclA==",
+  "dgSpecHash": "VICY4MKLTEE6tDpnOy7ksoPn6aUlbKiNa8XRHh2JytJx6+5UGCxT1VKZtu2Kq2f1U1fgG3I0dCKDqIIkcIVf0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ognyp\\source\\repos\\AutomateLogin\\AutomateLogin\\AutomateLogin.csproj",
+  "projectFilePath": "C:\\Users\\ognyp\\Desktop\\PC\\AutomateLogin\\AutomateLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ognyp\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\ognyp\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
